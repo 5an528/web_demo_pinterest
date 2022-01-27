@@ -1,2 +1,2 @@
-# web_demo_pinterest
-A Demo Pinterest Web Automation using Python
+# python_web_pinterest
+## Python web, raw
